@@ -2,7 +2,7 @@
 class Zvire:
 
     def __init__(self, vek):
-        print("Konstrukce zvirete")
+        print("Konstrukce zvirete - base class")
         self.__vek = vek
         pass
 
