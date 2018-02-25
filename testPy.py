@@ -12,3 +12,6 @@ class Hello:
         return " \ ".join([self.hello, self.novy])
 
     pass
+
+
+
